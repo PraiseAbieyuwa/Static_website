@@ -8,4 +8,7 @@ module "cloudfront" {
   source      = "./modules/cloudfront"
   environment = var.environment
   name        = var.name
-  root
+  root_object = var.root_object
+  domain      = var.domain
+  acm         = var.acm
+}
