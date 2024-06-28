@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"cloudfront","Source":"./modules/cloudfront","Dir":"modules/cloudfront"},{"Key":"s3_bucket","Source":"./modules/s3_bucket","Dir":"modules/s3_bucket"},{"Key":"s3_bucket.s3_bucket","Source":"./modules/s3","Dir":""}]}
